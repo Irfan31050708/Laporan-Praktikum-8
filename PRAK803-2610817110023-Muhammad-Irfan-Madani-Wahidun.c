@@ -19,7 +19,7 @@ int main()
 
     printf("\nData Peserta:\n");
     printf("Nama : %s\n", data.name);
-    printf("Umur : %d Tahun\n", data.age);
+    printf("Umur : %d tahun\n", data.age);
     printf("Skor : %d\n", data.score);
     
     return 0;
